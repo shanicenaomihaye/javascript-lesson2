@@ -4,4 +4,4 @@ console.log ("Price: " + price)
 
 price = price * ((100 - discount) / 100)
 
-console.log("New price: " + price)
+console.log("New price: " + price);
